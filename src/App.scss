@@ -27,12 +27,16 @@
         flex-direction: row;
         justify-content: flex-end;
         height: 2rem;
-        width: 60%;
-
-        
+        width: 60%;        
       }
     }
-
+    .error{
+      display: flex;
+      width: 100%;
+      flex-direction: column;
+      margin: 10px 10px 10px 300px;
+      color: red;
+    }
 }
 
 
